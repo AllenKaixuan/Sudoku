@@ -1,0 +1,12 @@
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:c100.cov -- D:\\sudo_game\\output\\sudo.exe -c 100
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n50.cov -- D:\\sudo_game\\output\\sudo.exe -c 1000
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n100.cov -- D:\\sudo_game\\output\\sudo.exe -n 100
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n1000.cov -- D:\\sudo_game\\output\\sudo.exe -n 1000  
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n100u.cov -- D:\\sudo_game\\output\\sudo.exe -n 100 -u 
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n1000u.cov -- D:\\sudo_game\\output\\sudo.exe -n 1000 -u 
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n100r25.cov -- D:\\sudo_game\\output\\sudo.exe -n 100 -r 25
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n100r35.cov -- D:\\sudo_game\\output\\sudo.exe -n 100 -r 35
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n100r45.cov -- D:\\sudo_game\\output\\sudo.exe -n 100 -r 45
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n100m1.cov -- D:\\sudo_game\\output\\sudo.exe -n 100 -m 1
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n100m2.cov -- D:\\sudo_game\\output\\sudo.exe -n 100 -m 2
+OpenCppCoverage.exe --sources D:\\sudo_game\\src --export_type=binary:n100m3.cov -- D:\\sudo_game\\output\\sudo.exe -n 100 -m 3

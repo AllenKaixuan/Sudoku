@@ -1,0 +1,29 @@
+[2023-06-16 20:27:09] [info] Load coverage file: ./c100.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n100.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n1000.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n1000u.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n100m1.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n100m2.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n100m3.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n100r25.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n100r35.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n100r45.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n100u.cov
+[2023-06-16 20:27:09] [info] Load coverage file: ./n50.cov
+[2023-06-16 20:27:09] [info] Start Program:
+Modules: Selected: * Excluded: 
+Sources: Selected: * Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: html total_coverage.html 
+Input coverage: ./c100.cov ./n100.cov ./n1000.cov ./n1000u.cov ./n100m1.cov ./n100m2.cov ./n100m3.cov ./n100r25.cov ./n100r35.cov ./n100r45.cov ./n100u.cov ./n50.cov 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+[2023-06-16 20:27:09] [info] ----------------------------------------------------
+[2023-06-16 20:27:09] [info] Coverage generated in Folder D:\sudo_game\Test\total_coverage.html
+[2023-06-16 20:27:09] [info] ----------------------------------------------------
+[2023-06-16 20:27:09] [info] The code coverage report is not what you expect? See the FAQ https://github.com/OpenCppCoverage/OpenCppCoverage/wiki/FAQ.
